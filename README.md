@@ -1,5 +1,4 @@
 ﻿TIMER IMPLEMENTATION ON BASYS3
-![](Aspose.Words.d9f69ee0-7fe7-4d37-b8ec-e10a31df20f7.001.png)**Github**: <https://github.com/dhanush-271/Voting_Machine_Basys3>
 
 **KOTHAPALLI DHANUSH**
 
